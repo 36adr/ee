@@ -1,6 +1,6 @@
 ---
 title: Moyens pour l’école - amplifier la mobilisation
-post_status: unpublish
+post_status: publish
 taxonomy:
     category:
         - CN 2023 2024
