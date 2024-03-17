@@ -21,4 +21,4 @@ Il s’agit de dénoncer l’instrumentalisation politique des moyens telle qu�
 
 Or cette bataille s’est déjà engagée ces dernières semaines avec des fronts de refus des fermetures de classes, portés par les enseignant·es, les parents d’élèves et les élu·es. Jamais les CSA et CDEN n’ont été aussi contestés. Les parlementaires interpellent le gouvernement sur ces questions. C’est dire la disponibilité actuelle pour parler de l’École et de son avenir. 
 
-Il est donc primordial que la FSU-SNUipp continue à alimenter cet axe et porte des cadres de mobilisation pour défendre l’École et revendiquer d’autres moyens, en fédérant ces batailles locales. Gardons à l’esprit que d’autres font de l’école un champ de convoitises politiciennes, à commencer par les plus réactionnaires.
+Il est donc primordial que la FSU-SNUipp continue à alimenter cet axe et porte des cadres de mobilisation pour défendre l’École et revendiquer d’autres moyens, en fédérant ces batailles locales. Gardons à l’esprit que d’autres font de l’école un champ de convoitises politiciennes, à commencer par les plus réactionnaires.  
