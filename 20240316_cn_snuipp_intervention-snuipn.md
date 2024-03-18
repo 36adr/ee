@@ -23,5 +23,5 @@ A commencer par l’expression publique du SNUIPN, qui pour le moment ne porte n
 
 Dans la FSU, tous les syndicats s’efforcent de dépasser la seule défense des intérêts moraux et matériels de leurs personnels. Ce n’est pas le cas actuellement du SNUIPN qui n’apporte pas toutes les garanties en termes de libertés publiques, ni une vision de la démocratie et des droits humains fondamentaux impliquant une transformation d'ampleur de l'institution elle-même à laquelle les tâches dites de sécurité sont dévolues.
 
-L’école émancipée ne porte pas un syndicalisme policier dans la FSU et considère qu’en l’état, ce protocole met en place les garde-fous nécessaires. A l’image de la diversité des arguments précédemment développés, afin d’approuver les garanties apportées par ce texte fédéral tout en alertant sur notre refus de ce syndicalisme dans la FSU, les élu·es nationaux·ales école émancipée partageront leur vote entre pour et contre.
+L’école émancipée ne porte pas un syndicalisme policier dans la FSU et considère qu’en l’état, ce protocole met en place les garde-fous nécessaires. A l’image de la diversité des arguments précédemment développés, afin d’approuver les garanties apportées par ce texte fédéral tout en alertant sur notre refus de ce syndicalisme dans la FSU, les élu·es nationaux·ales école émancipée partageront leur vote.
 
