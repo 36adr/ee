@@ -1,0 +1,20 @@
+---
+title: 20 ans de la loi de février 2005 - l’heure de la rupture
+post_status: publish
+post_date:  2025-01-18 12:00:00
+stick_post: yes
+taxonomy:
+    category:
+        - CN 2024 2025
+        - CN des 14 et 15 janvier 2025
+    post_tag:
+        - CN des 14 et 15 janvier 2025
+---
+
+La loi de 2005 pour l’égalité des droits et des chances, la participation et la citoyenneté des personnes handicapées a 20 ans. Et force est de constater que 2 décennies après sa promulgation, nous sommes très loin des ambitions affichées à l’époque.
+
+Rappelons-le : la revendication du droit à la scolarisation en milieu ordinaire pour toutes et tous et l’affirmation du principe d’éducabilité participent de la démocratisation du système scolaire et fait par conséquent partie de notre corpus revendicatif. Mais les politiques éducatives successives, derrière l’affirmation du principe d’« École inclusive » sont loin de matérialiser cet objectif. L’augmentation du nombre d’élèves en situation de handicap en classe ordinaire s’est réalisée sans moyens suffisants et est passé uniquement par un recours massif à des personnels maintenus dans la précarité. Au handicap ont été agglomérées, avec le concept d’EBEP, d’autres catégories d’élèves (allophones, enfants du voyage…) dans une approche toujours plus individualisée, médicalisée et essentialisante. Car affirmer que « chacun·e a sa place à l’école » ne suffit pas. Et au final, en conjuguant logique austéritaire et refus de considérer les conditions nécessaires pour permettre aux élèves en situation d’inclusion d’apprendre, le libéralisme à l’école conduit à ce que, si tout le monde a sa place à l’école, c’est à une place assignée. Car comment entendre le démantèlement des RASED, de la prévention, des formations spécialisées diffusant les savoirs professionnels nécessaires à une scolarisation réussie de ces élèves ? Comment comprendre une réduction généralisée des moyens, qui touchent à la fois la médecine scolaire, les CMPP et CMPEA ou les EMS, et invalide l’implantation de structures de soins et d’accompagnement au plus près des écoles ?
+
+En faisant la promotion d’une gestion individualisée des situations dites « particulières », les politiques éducatives menées ont diffusé une vision biologisée et essentialisée des difficultés (dys, troubles spécifiques des apprentissages…), dont le seul point commun est l’éloignement d’une norme invisibilisée, celle du rapport aux savoirs des élèves issu·e·s des milieux culturellement favorisés. Ces situations dites « particulières » n’ont pourtant rien de particulier. Elles décrivent des groupes sociaux que le projet libéral abandonne au tri social d’une institution sans moyens. Groupes sociaux que par ailleurs il abandonne aussi voire ostracise hors de l’école. Et si les personnels souffrent, ce n’est pas du fait des élèves assignés à être “à besoins éducatifs particuliers”, mais de ce que l’institution fait ou refuse de faire.
+
+Les élèves, les familles et les personnels, ont besoin d’une politique d’inclusion de rupture, tant du point de vue idéologique que budgétaire. Nous portons des revendications pour une inclusion progressiste, émancipatrice : moyens pour les dispositifs inclusifs, formation massive d’enseignant·es spécialisé·es, formation initiale et continue pour les PE et les AESH, abaissement des effectifs par classe, PDMQDC, temps institutionnalisé pour les concertations intermétiers. Il est de notre responsabilité syndicale de fêter les 20 ans de cette loi jamais “auditée”. Et alors que se déploie un acte 2 de l’école inclusive qui constitue une nouvelle ubérisation des moyens de l’inclusion, nous devons appeler, fédéralement et dans un cadre unitaire le plus large possible, les personnels et les usagers·ères de l’école à une journée de mobilisation pour une refondation de l’inclusion scolaire, qui passe par l’abandon de l’acte 2, des PIAL, des PAS, des dispositifs cache-misère comme le DAR, un changement de politique budgétaire et une rupture avec l’idéologie validiste dominante dans la société.
