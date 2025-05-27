@@ -23,7 +23,7 @@ La croissance des inégalités, la crise climatique engendrée par une course au
 
 L’éducation comme bien commun, comme condition nécessaire mais pas suffisante de notre humanité, doit être défendue face à celles et ceux qui veulent la privatiser, la réduire ou l’orienter dans le sens de leur vision du monde.
 
-L’école publique ne peut pas et ne doit pas être gérée comme une entreprise. Or, appauvrissement des savoirs professionnels, contrôle et automatisation des gestes, mise en concurrence et évaluation par les chiffres, tout cela concourt à abîmer le service public, à le détourner de ses missions. 
+L’école publique ne peut pas et ne doit pas être gérée comme une entreprise. Or, appauvrissement des savoirs professionnels, contrôle et automatisation des gestes, mise en concurrence et évaluation par les chiffres, tout cela concourt à abîmer le service public, à le détourner de ses missions.
 
 Baisse des effectifs dans les classes, renforcement du remplacement, formation des personnels en rupture avec l’orientation pédagogique réactionnaire et productrice d’inégalité, ressources professionnelles et humaines pour réussir l’école inclusive et répondre aux besoins des élèves qui en relèvent, lutte contre les discriminations de genres ou d’origines : autant de défis que l’école ne pourra pas relever sans un engagement financier et collectif.
 
@@ -31,4 +31,4 @@ La FSU-SNUipp doit profiter de ce printemps, notamment du 5 juin, pour discuter 
 
 Gagner est possible. En effet, la faiblesse politique du gouvernement Bayrou est une constante de la période. Avec un budget marqué par de fortes attaques contre les services publics et leurs agent·es, une majorité à l’assemblée nationale en faveur de la loi de finance est loin d’être acquise. Dans un tel contexte, le mouvement social peut contribuer à créer les conditions de son rejet ce qui serait en soi un première victoire ouvrant la voie à un retour sur la réforme des retraites de 2023, y compris par voie référendaire si nécessaire.
 
-Au sein de la FSU, notre syndicat doit défendre une ligne offensive et ambitieuse, la plus unitaire possible. Il doit peser pour que la FSU soit une force d’impulsion pour une action de grève unitaire et reconductible contre l’austérité salariale, pour le développement de l’emploi  public, pour l’Ecole, et le renforcement des solidarités face au détricotage de l’État social et des solidarités. 
+Au sein de la FSU, notre syndicat doit défendre une ligne offensive et ambitieuse, la plus unitaire possible. Il doit peser pour que la FSU soit une force d’impulsion pour une action de grève unitaire et reconductible contre l’austérité salariale, pour le développement de l’emploi  public, pour l’Ecole, et le renforcement des solidarités face au détricotage de l’État social et des solidarités.
