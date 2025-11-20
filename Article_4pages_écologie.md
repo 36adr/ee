@@ -1,13 +1,13 @@
 ---
-title: L’écologie, une urgence syndicale !
+title: "L’écologie, une urgence syndicale !"
 post_status: publish
 post_date: 2025-12-02  08:00:00
 taxonomy:
     category:
-        - 
+        - Vote d’orientation 2025 FSU-SNUipp
         - 
     post_tag:
-        - 
+        - Vote d’orientation 2025 FSU-SNUipp
 ---
 
 Le capitalisme, en quête de profit, charrie catastrophes environnementales, pillage des ressources et violences sociales. Le réchauffement climatique est alarmant, faisant de la rupture écologique un enjeu majeur pour la sécurité des peuples et l’habitabilité de la planète.

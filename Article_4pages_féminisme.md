@@ -1,13 +1,13 @@
 ---
-title: Défendre les droits des femmes
+title: "Défendre les droits des femmes"
 post_status: publish
 post_date: 2025-11-25  08:00:00
 taxonomy:
     category:
-        - 
+        - Vote d’orientation 2025 FSU-SNUipp
         - 
     post_tag:
-        - 
+        - Vote d’orientation 2025 FSU-SNUipp
 ---
 
 Les droits des femmes sont sans cesse attaqués par des pouvoirs autoritaires, libéraux et d’extrême-droite, et masculinistes. Cela oblige à renforcer les luttes féministes.

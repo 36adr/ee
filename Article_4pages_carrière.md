@@ -1,13 +1,13 @@
 ---
-title: Carrières, salaires, conditions de travail : agir pour les personnels !
+title: "Carrières, salaires, conditions de travail - agir pour les personnels !"
 post_status: publish
-post_date: 2025-11-23  08:00:00
+post_date: 2025-11-22  08:00:00
 taxonomy:
     category:
-        - 
+        - Vote d’orientation 2025 FSU-SNUipp
         - 
     post_tag:
-        - 
+        - Vote d’orientation 2025 FSU-SNUipp
 ---
 
 L’École Émancipée défend une vision émancipatrice du service public d’éducation, fondée sur l’égalité, la coopération et la justice sociale. Elle milite pour la défense du statut de fonctionnaire et la titularisation sans conditions pour les AESH et les contractuel·les en poste. Chaque agent·e doit bénéficier d’une carrière linéaire et déconnectée du mérite. Cela passe par un avancement pour toutes et tous, sur la seule base de l’ancienneté, sans sélection opaque ni entretiens de carrière.L’accès à la hors-classe ou à la classe exceptionnelle ne doit pas être réservé à une minorité.

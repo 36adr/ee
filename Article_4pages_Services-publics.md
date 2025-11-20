@@ -1,13 +1,13 @@
 ---
-title: Les services publics, un bien commun à renforcer
+title: "Les services publics, un bien commun à renforcer"
 post_status: publish
-post_date: yyyy-mm-dd hh:mm:ss
+post_date: 2025-11-30 08:00:00
 taxonomy:
     category:
-        - 
+        - Vote d’orientation 2025 FSU-SNUipp
         - 
     post_tag:
-        - 
+        - Vote d’orientation 2025 FSU-SNUipp
 ---
 
 

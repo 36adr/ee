@@ -1,7 +1,7 @@
 ---
 title: La lutte des classes passe par l’École
 post_status: publish
-post_date: 2025-11-27  08:00:00
+post_date: 2025-11-23  08:00:00
 taxonomy:
     category:
         - Vote d’orientation 2025 FSU-SNUipp
