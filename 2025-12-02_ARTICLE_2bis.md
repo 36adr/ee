@@ -1,5 +1,5 @@
 ---
-title: Entretien avec Sophie Djigo - Quand l'extrême droite s'attaque à l'Éducation nationale
+title: "Entretien avec Sophie Djigo - Quand l'extrême droite s'attaque à l'Éducation nationale"
 post_status: publish
 stick_post: 'yes'
 taxonomy:
