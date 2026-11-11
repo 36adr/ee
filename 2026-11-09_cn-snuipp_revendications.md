@@ -1,5 +1,5 @@
 ---
-title: "porter nos revendications dans le mouvement social en cours" # Titre plus parlant
+title: "Porter nos revendications dans le mouvement social en cours" # Titre plus parlant
 post_status: publish
 post_date: 2026-11-11
 taxonomy:
